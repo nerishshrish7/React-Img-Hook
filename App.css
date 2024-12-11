@@ -1,0 +1,17 @@
+img{
+  height: 60vh;
+  width: 40vw;
+}
+body{
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+button{
+  height: 7vh;
+  width: 4vw;
+  margin-left: 5vw;
+  margin-top: -10vh;
+}
